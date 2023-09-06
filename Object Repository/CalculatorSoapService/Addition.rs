@@ -38,7 +38,7 @@
    &lt;soapenv:Body>
       &lt;tem:Add>
          &lt;tem:intA>3&lt;/tem:intA>
-         &lt;tem:intB>3&lt;/tem:intB>
+         &lt;tem:intB>2&lt;/tem:intB>
       &lt;/tem:Add>
    &lt;/soapenv:Body>
 &lt;/soapenv:Envelope></soapBody>
